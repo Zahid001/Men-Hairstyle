@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/cameraView"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="78dp"
+        android:layout_marginStart="78dp"
+        android:layout_marginTop="43dp"
+        app:srcCompat="@drawable/ic_action_camera"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/photoView2"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="59dp"
+        android:src="@drawable/democut"
+        app:civ_border_color="#ffffff"
+        app:civ_border_width="3dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="38dp"
+        android:text="Send us your Style!"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/photoView2"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView"
+        android:layout_marginLeft="9dp"
+        android:layout_marginStart="9dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:text="If your think your style is awesome then send us via Facebook, we will share your style in our page and also inlcude in this app. Cheers!"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/sendstyle"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/photoView2"
+        android:layout_alignStart="@+id/photoView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="22dp"
+        android:text="Send  Style"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/likeus"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="13dp"
+        android:text="Like page"
+        android:textAllCaps="false"
+        android:layout_below="@+id/sendstyle"
+        android:layout_alignLeft="@+id/sendstyle"
+        android:layout_alignStart="@+id/sendstyle" />
+
+</RelativeLayout>

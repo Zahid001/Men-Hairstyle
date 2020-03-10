@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Turzo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_c54ea39ad20bbde106ec0acec6ef0081439ae1e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Turzo\.android\build-cache\a5e6790c313dfbc095a7bfa0162653f9d604e799\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5533ea4ee8fc65d3fb1814540e6fb043d627b757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15de48aa3f4188d9e5313a0f42d3132a60e71d23">
+        <dex dex="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bdf17f8e27fdb9f817190a2b55e7e8877898e712\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_06e142832236ef7870aaef69e7a962c1d3226ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Turzo\.android\build-cache\45d38b88a9c4f087dd00aa32d1aae13b278ceef3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf9d9fedce7809e16ac57cb015bcffb9873237c3">
+        <dex dex="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fce1c79b97d691e4c6e7c694caebd8fb21f099a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Turzo\.android\build-cache\333b378c2ae7bac7fc20f9c5c222248823650ffe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c1e4dd5c192edd9e3ae592a9134e6f43c530158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Turzo\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.8\ec0f15c77ddd390e5ac514ac72ebbb9f2e0e31e2\library-1.0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec0f15c77ddd390e5ac514ac72ebbb9f2e0e31e2">
+        <dex dex="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.8_429af7d03fda2824e0d5cdb66846c9815445fd71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Turzo\.android\build-cache\77e6aa7127d71ab2333c894103f5c17c7931f83b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c554566c1e788ed0616efd577153fc5abc9dcd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Turzo\.android\build-cache\09ba88ef1f4ad521436b5a46528b509995e9e494\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Android_Studio_Projects\HairStyle2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7223184d3b6a49e1bd458827cbcec28178eae29a\classes.dex" />
+    </item>
+
+</items>

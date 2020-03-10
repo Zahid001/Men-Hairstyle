@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Men Latest Hairstyles 2017</string>
+
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="ad_id_interstitial">ca-app-pub-4658910366293213/9098095285</string>
+    <string name="ad_id_banner">ca-app-pub-4658910366293213/4667895689</string>
+    <string name="gameHeader">Hair Style 2017</string>
+    <color name="white">#259b24</color>
+    <string name="tryAgainButtonText"> Try Again;/u>.</string>
+
+    <!-- Image Links -->
+    <string name="image1">http://i.imgur.com/Ok4gbf0.jpg</string>
+
+</resources>
+
+
